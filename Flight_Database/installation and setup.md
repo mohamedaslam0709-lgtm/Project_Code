@@ -33,7 +33,7 @@ POOL_SIZE=5
 CASHIER_NAME=admin
 CASHIER_PASS=your_secure_admin_password
 ```
-**⚠️ Security Note: Never commit your .env file to GitHub. It is already listed in .gitignore.**
+**⚠️ Security Note: Never commit your .env file to GitHub. It is already listed in .gitignore. Make sure you have .gitignore when uploading the .env file**
 ## 5. Run the Application
  - You can run this code in your own IDE or through CMD with the following command:
  - Make sure your CMD path is the same as the cloned folder path by referring to 'Step 2'.
