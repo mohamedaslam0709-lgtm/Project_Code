@@ -18,6 +18,7 @@ cd <your_path>
  - For example, ```cd d:/my_github/my_folder``` then followed by ```d:```.
  - Now, you can see the CMD line start from ```d:\my_github\my_folder>```.
  - Then proceed with 'Step 2', which will copy the entire folder in the selected end path.
+ - And move to ```cd Flight_Database``` and you ready for the next step.
 ## 3. Install Dependencies
 ```text
 pip install -r requirements.txt
