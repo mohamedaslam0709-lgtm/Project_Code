@@ -23,7 +23,7 @@ cd <your_path>
 pip install -r requirements.txt
 ```
 ## 4. Configure Environment Variables
- - Open a file named ```.env``` in the cloned directory and edit your MySQL details:
+ - Open a file named ```.env``` in the cloned directory. Copy and paste the below lines into the file and edit your Database details:
 ```text
 USER_NAME=root
 PASSWORD=your_mysql_password
