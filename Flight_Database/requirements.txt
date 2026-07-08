@@ -1,0 +1,4 @@
+mysql-connector-python
+bcrypt
+tabulate
+python-dotenv
