@@ -3,7 +3,7 @@
  - MySQL Server (running locally or remote)
  - Git
 ## 2. Clone the Repository
- - In your CMD or Command Prompt, type or paste the following lines:
+ - In your CMD or in IDE Terminal, type or paste the following lines:
 ```text
 git clone https://github.com/mohamedaslam0709-lgtm/Flight_Database.git
 cd Flight_Database
