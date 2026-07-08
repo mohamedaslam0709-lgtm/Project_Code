@@ -39,4 +39,3 @@ CASHIER_PASS=your_secure_admin_password
  - Make sure your CMD path is the same as the cloned folder path by referring to 'Step 2'.
  - Type ```python main.py```. This initializes the ```main.py``` file
  - Make sure that ```MySQL80``` service is running in 'Services' or ```mysqld``` in your 'Task Manager', else it will throw an ```ERROR```.
- - Consult 'README.md' or official docs in case of any error.
