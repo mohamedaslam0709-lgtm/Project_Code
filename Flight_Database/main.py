@@ -311,7 +311,7 @@ class Passenger:
             while True:
                 Name = input("Enter your Name: ").upper()
                 if len(Name) > 3 and Name.isalpha():
-                    print(f"\nYour name: {Name}")
+                    print(f"Your name: {Name}\n")
                     break
                 else:
                     print("\nName should not contain numbers or special characters.\nIt should be 3 or more letters.")
@@ -321,7 +321,7 @@ class Passenger:
             while True:
                 Gender = input("Enter your gender (Male/Female): ").strip().upper()    
                 if Gender in ["MALE", "FEMALE"]:
-                    print(f"\nYour gender: {Gender}")
+                    print(f"Your gender: {Gender}\n")
                     break
                 else:
                     print("Please type either 'Male' or 'Female'")
@@ -332,7 +332,7 @@ class Passenger:
                 try:
                     Age = int(input("Enter your age: ").strip())
                     if str(Age).isdigit() and Age > 17:
-                        print(f"\nYour age: {Age}")
+                        print(f"Your age: {Age}\n")
                         break
                     else:
                         print("\nYou must be 18 or older to proceed!")
